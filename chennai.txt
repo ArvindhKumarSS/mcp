@@ -1,0 +1,36 @@
+# Chennai Weather Summary
+
+Based on the latest weather information available:
+
+## Current Conditions
+- **Temperature**: 31.1°C
+- **Weather Condition**: Mist
+- **Air Quality Index (AQI)**: 25 (Good)
+- **Time Zone**: India Standard Time (GMT+5:30)
+
+## Weather Sources Available
+The following weather services provide comprehensive forecasts for Chennai, Tamil Nadu:
+
+1. **AccuWeather** - Current conditions with 3-day forecast
+2. **The Weather Channel** - 10-day detailed forecast with precipitation chances
+3. **BBC Weather** - Associated with MeteoGroup for reliable forecasts
+4. **Skymet Weather** - Extended 15-day weather forecast
+5. **Meteologix** - Detailed forecasts with satellite imagery and model charts
+6. **IMD Chennai (Regional Meteorological Centre)** - Official Indian weather service with:
+   - 7-day forecasts and warnings
+   - 24-hour rainfall forecasts (available in English, Tamil, and Hindi)
+   - Urban meteorological services
+   - Climate extremes data
+
+## Forecast Availability
+- **Short-term**: 3-7 day forecasts widely available
+- **Medium-term**: 10-14 day forecasts available
+- **Extended**: Up to 15-day forecasts available
+
+## Additional Information
+- Chennai experiences a tropical climate
+- Weather monitoring includes radar, lightning detection, and satellite imagery
+- Historical weather data is available for analysis
+- Real-time air quality monitoring is in place
+
+*Last updated: Based on search results from weather services*
